@@ -5,6 +5,7 @@
 [![Latest Stable Version](https://poser.pugx.org/odenktools/php-bca/v/stable)](https://packagist.org/packages/odenktools/php-bca)
 [![Latest Unstable Version](https://poser.pugx.org/odenktools/php-bca/v/unstable)](https://packagist.org/packages/odenktools/php-bca)
 [![Total Downloads](https://poser.pugx.org/odenktools/php-bca/downloads)](https://packagist.org/packages/odenktools/php-bca)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fodenktools%2Fphp-bca.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fodenktools%2Fphp-bca?ref=badge_shield)
 
 # BCA (Bank Central Asia)
 
@@ -425,3 +426,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fodenktools%2Fphp-bca.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fodenktools%2Fphp-bca?ref=badge_large)
